@@ -3,8 +3,7 @@ log:
   formatter: json
   level: info
   fields:
-    service:
-      registry
+    service: registry
 storage:
   cache:
     blobdescriptor: inmemory
