@@ -1,0 +1,34 @@
+.
+└── docker
+    └── registry
+        └── v2
+            ├── blobs
+            │   └── sha256
+            │       ├── 19
+            │       │   └── 19485c79a9bbdca205fce4f791efeaa2a103e23431434696cc54fdd939e9198d
+            │       │       └── data
+            │       ├── 7c
+            │       │   └── 7c9d20b9b6cda1c58bc4f9d6c401386786f584437abbe87e58910f8a9a15386b
+            │       │       └── data
+            │       ├── a3
+            │       │   └── a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4
+            │       │       └── data
+            │       └── dd
+            │           └── dd97a3fe6d721c5cf03abac0f50e2848dc583f7c4e41bf39102ceb42edfd1808
+            │               └── data
+            └── repositories
+                └── busybox
+                    ├── _layers
+                    │   └── sha256
+                    │       ├── 19485c79a9bbdca205fce4f791efeaa2a103e23431434696cc54fdd939e9198d
+                    │       │   └── link
+                    │       ├── 7c9d20b9b6cda1c58bc4f9d6c401386786f584437abbe87e58910f8a9a15386b
+                    │       │   └── link
+                    │       └── a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4
+                    │           └── link
+                    ├── _manifests
+                    │   ├── revisions
+                    │   │   └── sha256
+                    │   │       └── dd97a3fe6d721c5cf03abac0f50e2848dc583f7c4e41bf39102ceb42edfd1808
+                    │   └── tags
+                    └── _uploads
